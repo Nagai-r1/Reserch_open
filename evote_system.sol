@@ -1,10 +1,9 @@
-pragma solidity ^0.4.15;
 // 電子投票システム　evote_system.sol
 // 作成日：2019/1/11
 // 作成者：Nagai-r1
 
 
-
+pragma solidity ^0.4.15;
 
 contract VotingSystem{
     
